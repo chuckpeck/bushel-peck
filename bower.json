@@ -3,6 +3,7 @@
   "dependencies": {
     "jquery": "^1.11.1",
     "bootstrap": "~3.3.1",
-    "isotope": "~2.1.1"
+    "isotope": "~2.1.1",
+    "bxslider": "*"	
   }
 }
